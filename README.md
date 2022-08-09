@@ -25,6 +25,7 @@ The app can be extended by adding hourly forecast, daily forecast, weather for o
 ## Technical 
 * Created using SwiftUI
 * MVVM design pattern
+* Weather icons using SF Symbols
 * Reusable text and image component
 * Getting current location using CoreLocation
 * API call using URLSession and JSON parsing using Codable protocol
