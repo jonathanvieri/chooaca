@@ -10,9 +10,17 @@ This project is made to demonstrate the usage of API call and JSON Parsing in Sw
 The app can be extended by adding hourly forecast, daily forecast, weather for other location, etc.
 
 
+## Screenshots
+<p>
+  <img src="https://github.com/jonathanvieri/Chooaca/blob/master/images/ChooacaExample1.png" height="500">
+  &emsp;&emsp;
+  <img src="https://github.com/jonathanvieri/Chooaca/blob/master/images/ChooacaExample2.png" height="500">
+</p>
+
 ## Features
 * Get the latest weather in current location
 * Get minimum and maximum temperature for the day
+
 
 ## Technical 
 * Created using SwiftUI
@@ -21,12 +29,14 @@ The app can be extended by adding hourly forecast, daily forecast, weather for o
 * Getting current location using CoreLocation
 * API call using URLSession and JSON parsing using Codable protocol
 
+
 ## Usage
 1. Clone the project
 2. Open and run the project in Xcode
 
 ## Credits
 Weather API is provided by [OpenWeatherMap](https://openweathermap.org/api)
+
 
 ## License
 This project is licensed under the [MIT License](https://github.com/jonathanvieri/Chooaca/blob/master/LICENSE.txt)
