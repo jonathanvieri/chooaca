@@ -12,9 +12,9 @@ The app can be extended by adding hourly forecast, daily forecast, weather for o
 
 ## Screenshots
 <p>
-  <img src="https://github.com/jonathanvieri/Chooaca/blob/master/images/ChooacaExample1.png" height="500">
+  <img src="https://github.com/jonathanvieri/Chooaca/blob/master/images/ChooacaExample1.png" height="350">
   &emsp;&emsp;
-  <img src="https://github.com/jonathanvieri/Chooaca/blob/master/images/ChooacaExample2.png" height="500">
+  <img src="https://github.com/jonathanvieri/Chooaca/blob/master/images/ChooacaExample2.png" height="350">
 </p>
 
 ## Features
