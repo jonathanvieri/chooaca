@@ -33,7 +33,8 @@ The app can be extended by adding hourly forecast, daily forecast, weather for o
 
 ## Usage
 1. Clone the project
-2. Open and run the project in Xcode
+2. Fill the API Key in Constants file
+3. Open and run the project in Xcode
 
 ## Credits
 Weather API is provided by [OpenWeatherMap](https://openweathermap.org/api)
