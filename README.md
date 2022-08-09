@@ -40,4 +40,4 @@ Weather API is provided by [OpenWeatherMap](https://openweathermap.org/api)
 
 
 ## License
-This project is licensed under the [MIT License](https://github.com/jonathanvieri/Chooaca/blob/master/LICENSE.txt)
+This project is licensed under the [MIT License](https://github.com/jonathanvieri/Chooaca/blob/master/LICENSE)
